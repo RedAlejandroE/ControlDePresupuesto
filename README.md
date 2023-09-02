@@ -1,8 +1,7 @@
-# Control de Gastos
+# Control de presupuesto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PROYECTO: Control de Presupuesto en React con Vite y LocalStorage
 
-Currently, two official plugins are available:
+## Documentation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ "Control de Presupuesto en React con Vite y LocalStorage" se refiere a la creación de una aplicación web que permite a los usuarios llevar un seguimiento de sus gastos y su presupuesto personal utilizando la biblioteca de JavaScript llamada React para construir la interfaz de usuario, Vite como entorno de desarrollo rápido y LocalStorage para almacenar los datos localmente en el navegador web del usuario.
